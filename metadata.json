@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Love Page",
+  "description": "Aplikasi web satu halaman penuh kasih sayang dengan animasi hati melayang, ledakan hati interaktif, dan pesan penyemangat manis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
